@@ -15,7 +15,7 @@ The full source code is kept private because this was completed as a school proj
 
 The source code for this project is stored in a private repository and is not publicly accessible.
 
-This means the code cannot be opened, downloaded, copied, or cloned by the public. A walkthrough, demo, or selected explanation can be provided upon request.
+This means the code cannot be opened, downloaded, copied, or cloned by the public.
 
 ## Features
 
